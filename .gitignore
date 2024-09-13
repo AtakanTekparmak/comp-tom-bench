@@ -166,3 +166,6 @@ cython_debug/
 
 # game_data.json
 game_data.json
+
+# todo.md
+todo.md
