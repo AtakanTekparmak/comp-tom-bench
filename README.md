@@ -23,7 +23,6 @@ The competitive game for this experiment is a **Mod Game (N=16) with Public Bett
 ## Requirements
 - Python 3.10+
 - pip
-- pipenv
 
 ## Setup
 1. Set up a virtual environment and install dependencies:
